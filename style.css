@@ -1,0 +1,18 @@
+#title { 
+	color: #6666ff;
+	text-align: center;
+	font-size: 50px;
+}
+
+.body {
+	font-family: font-family: 'Roboto', sans-serif;
+	width: 60%;
+	margin-left: 6%;
+}
+
+#boba {
+		width: 25%;
+		height: auto;
+		float: right;
+		margin-right: 6%;
+}
